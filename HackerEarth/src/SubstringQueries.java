@@ -12,7 +12,7 @@ public class SubstringQueries {
  
                         int numoftcs=Integer.parseInt(br.readLine());
                        
-                        //System.out.println("numoftcs "+numoftcs);  
+                        System.out.println("numoftcs "+numoftcs);  
                                    
                         if (numoftcs<1 || numoftcs>3)
                                     return;
